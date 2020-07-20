@@ -1,6 +1,5 @@
-# UBC-MDS-CL.github.io
 
-MDS-CL Capstone Information
+#MDS-CL Capstone Information
 ---
 
 The first step in applying to participate as a capstone partner involves writing a project proposal. Check out our [About](/capstone/about) page to learn more about the type of projects we address through our capstone course.
