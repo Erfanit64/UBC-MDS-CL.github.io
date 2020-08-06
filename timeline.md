@@ -5,7 +5,7 @@ subtitle: For MDS Capstone Projects
 
 ---
 
-This year's capstone course will run __May 4, 2020 - June 30, 2020__ (8 weeks).
+This year's capstone course will run __Beginning of May to End of June, 2021__ (8 weeks).
 
 The approximate timeline is below, followed by additional detail on each event.
 
