@@ -11,20 +11,21 @@ The approximate timeline is below, followed by additional detail on each event.
 
 | Event | Deadline/Period |
 | ----- | ---- |
-| Suggested initial submission of [proposal](https://ubc-mds.github.io/capstone/proposal/) | November 15, 2019 |
-| [Proposal deadline](#proposal-revision-process) | December 20, 2019  |
-| [Selection of proposals](#selection-of-proposals) | January 15, 2020   |
-| [Capstone fair](#capstone-fair)       | February 13 and 14, 2020 |
-| [Students rate the projects](#students-rate-the-projects)  | late February, 2020 |
-| [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | March 1, 2020 |
+| Suggested initial submission of [proposal](https://ubc-mds.github.io/capstone/proposal/) | November 15, 2020 |
+| [Proposal deadline](#proposal-revision-process) | November 30, 2020  |
+| [Selected partners invited to present](#selection-of-proposals) | January 11, 2021   |
+| [Selected partners share brief video](#partner-videos) | February 8, 2021   |
+| [MDS-CL partner showcase capstone selection and networking event](#partner-showcase)       | February 10, 2021 |
+| [Students rate the projects](#students-rate-the-projects)  | late February, 2021 |
+| [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | by March 1, 2020 |
 | [Partners demonstrate/declare readiness of data](#partners-provide-data)  | April 1, 2020 |
 | [Kickoff meetings](#kickoff-meetings)    | March - April, 2020 |
-| [Project](#project) | May 4 - June 30, 2020 |
-| [Kickoff hackathon](#hackathon) | May 4 and 5, 2020 |
+| [Project](#project) | Early May 4 - End of June, 2020 |
+| [Kickoff hackathon](#hackathon) | Early May, 2020 |
 
 #### Proposal revision process
 
-Members of an organization interested in participating as a capstone partner should submit a project [proposal](/capstone/partner_info/#proposals).
+Members of an organization interested in participating as a capstone partner should submit a project [proposal](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F).
 
 Members of the MDS leadership team will review the proposal, and work with the potential partner to establish a finalized proposal. Potential partners should feel free to ask us for our opinion on any aspect of this step ahead of time, such as whether the main idea of the proposal is appropriate.
 
@@ -32,7 +33,7 @@ We recommend your first submission of the proposal to be well before the Decembe
 
 #### Selection of proposals
 
-The MDS leadership team will select proposals based primarily on student interest, and will invite the successful organizations to be a capstone partner.
+The MDS leadership team will select proposals based on appropriateness and student interest, and will invite the successful organizations to be a capstone partner.
 
 #### Partners accept invitations
 
@@ -40,7 +41,7 @@ The successful capstone partners accept the offers, and confirm their attendance
 
 #### Capstone fair
 
-Capstone partners must attend the Capstone Fair to meet with the students and answer any questions they may have. The Capstone Fair takes place at the UBC Robson Square campus in downtown Vancouver. Detailed information will be emailed to each capstone partner. An example of a Capstone fair slide deck can be found [here](/capstone/Sauder2019CapstoneFair.pdf).
+Capstone partners must attend the Capstone Fair to meet with the students and answer any questions they may have. The Capstone Fair takes place at the UBC Robson Square campus in downtown Vancouver. Detailed information will be emailed to each capstone partner. An example of a Capstone fair slide deck can be found [here](/Sauder2019CapstoneFair.pdf).
 
 
 #### Students rate the projects
