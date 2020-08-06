@@ -11,11 +11,11 @@ The approximate timeline is below, followed by additional detail on each event.
 
 | Event | Deadline/Period |
 | ----- | ---- |
-| Suggested initial submission of [proposal](https://ubc-mds.github.io/capstone/proposal/) | November 15, 2020 |
+| Suggested initial submission of [proposal](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F) | November 15, 2020 |
 | [Proposal deadline](#proposal-revision-process) | November 30, 2020  |
 | [Selected partners invited to present](#selection-of-proposals) | January 11, 2021   |
 | [Selected partners share brief video](#partner-videos) | February 8, 2021   |
-| [MDS-CL partner showcase capstone selection and networking event](#partner-showcase)       | February 10, 2021 |
+| [MDS-CL partner showcase (capstone selection and networking event)](#partner-showcase)       | February 10, 2021 |
 | [Students rate the projects](#students-rate-the-projects)  | late February, 2021 |
 | [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | by March 1, 2020 |
 | [Partners demonstrate/declare readiness of data](#partners-provide-data)  | April 1, 2020 |
