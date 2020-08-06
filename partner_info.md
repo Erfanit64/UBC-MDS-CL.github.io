@@ -47,7 +47,7 @@ Successful MDS capstone projects...
 - pose a multi-faceted question/problem, containing enough dimensions to be addressed in a multitude of ways.
 - are sufficiently deep, such that a useful data product can be made in two months that makes a solid advance on the problem.
 - can be split up into milestones, such that concrete progress can be made in two months.
-- draw on various tools and topics the students have learned in their [courses](https://ubc-mds.github.io/descriptions/) during the MDS program.
+- draw on various tools and topics the students have learned in their [courses](https://masterdatascience.ubc.ca/programs/computational-linguistics) during the MDS program.
 
 What a capstone project is **not**:
 
@@ -63,7 +63,7 @@ What a capstone project is **not**:
 
 ## FAQ
 
-Here are answers to some frequently asked questions regarding our capstone course. Don't see the answer to your question here, or elsewhere on the capstone course website? Please contact Milad Maymay at `maymay@science.ubc.ca`.
+Here are answers to some frequently asked questions regarding our capstone course. Don't see the answer to your question here, or elsewhere on the capstone course website? Please contact Ryan Taylor at `ryan.taylor@ubc.ca`.
 
 #### 1. Is there a fee to participate as a partner? Do students get paid?
 
@@ -75,7 +75,7 @@ We have workspaces available for the students on the UBC Vancouver campus, and e
 
 #### 3. When are the proposals due?
 
-See our [timeline](/capstone/timeline).
+See our [timeline](/timeline).
 
 #### 4. Can an organization submit more than one project proposal?
 
