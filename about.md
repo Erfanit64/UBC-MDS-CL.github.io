@@ -4,7 +4,10 @@ During the last two months of the MDS program (May & June each year), our studen
 
 ## Important pages
 
-- For more information on becoming a partner, see our [partner information page](/partner_info).
+- For more information on becoming a partner, see our [partner information page](UBC-MDS-CL.github.io
+/partner_info).
 - For guidelines on submitting a proposal, see our [proposal page](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F).
-- For various important dates and deadlines, see our [timeline and procedures page](/timeline).
-- For a list of past projects, see our [past projects page](/past_projects) and [this page](https://masterdatascience.ubc.ca/why-ubc/partners).
+- For various important dates and deadlines, see our [timeline and procedures page](UBC-MDS-CL.github.io
+/timeline).
+- For a list of past projects, see our [past projects page](UBC-MDS-CL.github.io
+/past_projects) and [this page](https://masterdatascience.ubc.ca/why-ubc/partners).
