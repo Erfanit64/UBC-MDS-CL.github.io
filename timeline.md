@@ -14,8 +14,8 @@ The approximate timeline is below, followed by additional detail on each event.
 | [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | by March 1, 2020 |
 | [Partners demonstrate/declare readiness of data](#partners-provide-data)  | April 1, 2020 |
 | [Kickoff meetings](#kickoff-meetings)    | March - April, 2020 |
-| [Project](#project) | Early May 4 - End of June, 2020 |
-| [Kickoff hackathon](#hackathon) | Early May, 2020 |
+| [Project](#project) | May 3 - June 30, 2021 |
+| [Kickoff hackathon](#hackathon) | May 3 - May 5, 2021 |
 
 #### Proposal revision process
 
