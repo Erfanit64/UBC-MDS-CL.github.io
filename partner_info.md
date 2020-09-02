@@ -60,7 +60,7 @@ Here are answers to some frequently asked questions regarding our capstone cours
 
 #### 1. Is there a fee to participate as a partner? Do students get paid?
 
-No, there is no fee involved anywhere in the process, and we ask that partners not pay our students.
+No, there is no fee involved anywhere in the process.
 
 #### 2. Where do the students work on the capstone projects?
 
