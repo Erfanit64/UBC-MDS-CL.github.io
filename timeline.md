@@ -5,7 +5,7 @@ The approximate timeline is below, followed by additional detail on each event.
 
 | Event | Deadline/Period |
 | ----- | ---- |
-| Suggested initial submission of [proposal](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F) | November 15, 2020 |
+| Suggested initial submission of [proposal](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F)(To receive pre-submission feedback) | November 15, 2020 |
 | [Proposal deadline](#proposal-revision-process) | November 30, 2020  |
 | [Partners invited to present](#selection-of-proposals) | January 11, 2021   |
 | [Selected partners share brief video](#partner-videos) | February 8, 2021   |
