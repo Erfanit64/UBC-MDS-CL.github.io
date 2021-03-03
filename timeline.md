@@ -7,15 +7,15 @@ The approximate timeline is below, followed by additional detail on each event.
 | ----- | ---- |
 | Suggested initial submission of [proposal](https://ubc.ca1.qualtrics.com/jfe/form/SV_6G26k7yyLVRcb0F) (to receive pre-submission feedback) | November 15, 2021 |
 | [Proposal deadline](#proposal-revision-process) | November 30, 2021  |
-| [Partners invited to present](#selection-of-proposals) | Mid-January, 2021   |
-| [Selected partners share brief video](#partner-videos) | Early February, 2021   |
-| [MDS-CL partner showcase (capstone selection and networking event)](#partner-showcase)       | February 10 and 11, 2021 |
-| [Students rate the projects](#students-rate-the-projects)  | late February, 2021 |
-| [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | Early March, 2020 |
-| [Partners demonstrate/declare readiness of data](#partners-provide-data)  | April 1, 2020 |
-| [Kickoff meetings](#kickoff-meetings)    | March - April, 2020 |
-| [Project](#project) | May 3 - June 30, 2021 |
-| [Kickoff hackathon](#hackathon) | May 3 - May 5, 2021 |
+| [Partners invited to present](#selection-of-proposals) | Mid-January, 2022   |
+| [Selected partners share brief video](#partner-videos) | Early February, 2022   |
+| [MDS-CL partner showcase (capstone selection and networking event)](#partner-showcase)       | February 10 and 11, 2022 |
+| [Students rate the projects](#students-rate-the-projects)  | late February, 2022 |
+| [Partners are notified of our decisions](#partners-are-notified-of-our-decisions) | Early March, 2022 |
+| [Partners demonstrate/declare readiness of data](#partners-provide-data)  | April 1, 2022 |
+| [Kickoff meetings](#kickoff-meetings)    | March - April, 2022 |
+| [Project](#project) | May 3 - June 30, 2022 |
+| [Kickoff hackathon](#hackathon) | May 3 - May 5, 2022 |
 
 #### Proposal revision process
 
